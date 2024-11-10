@@ -1,3 +1,6 @@
+// Comando para executar o programa
+// javac src/dialogos/*.java -d bin && java -cp bin dialogos.Principal
+
 package dialogos;
 
 public class Principal {
